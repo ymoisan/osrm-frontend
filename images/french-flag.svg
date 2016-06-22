@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg3789"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Nouveau document 2">
+  <defs
+     id="defs3791">
+    <clipPath
+       id="SVGID_20_">
+      <use
+         height="1052.3622"
+         width="744.09448"
+         y="0"
+         x="0"
+         style="overflow:visible"
+         xlink:href="#SVGID_19_"
+         overflow="visible"
+         id="use425" />
+    </clipPath>
+    <linearGradient
+       id="SVGID_21_"
+       gradientUnits="userSpaceOnUse"
+       x1="78.313301"
+       y1="24.8372"
+       x2="78.355598"
+       y2="8.3465004">
+      <stop
+         offset="0"
+         style="stop-color:#FFFFFF;stop-opacity:0"
+         id="stop440" />
+      <stop
+         offset="1"
+         style="stop-color:#FFFFFF"
+         id="stop442" />
+    </linearGradient>
+    <linearGradient
+       id="SVGID_22_"
+       gradientUnits="userSpaceOnUse"
+       x1="78.619499"
+       y1="16.301901"
+       x2="78.619499"
+       y2="36.6036">
+      <stop
+         offset="5.618000e-03"
+         style="stop-color:#DEE2E5"
+         id="stop447" />
+      <stop
+         offset="0.2528"
+         style="stop-color:#FFFCE4"
+         id="stop449" />
+      <stop
+         offset="0.3953"
+         style="stop-color:#F0EBD7"
+         id="stop451" />
+      <stop
+         offset="0.5955"
+         style="stop-color:#D5CCC0"
+         id="stop453" />
+      <stop
+         offset="0.7865"
+         style="stop-color:#EDEDEE"
+         id="stop455" />
+      <stop
+         offset="1"
+         style="stop-color:#D7D4BA"
+         id="stop457" />
+    </linearGradient>
+    <clipPath
+       id="SVGID_24_">
+      <use
+         height="1052.3622"
+         width="744.09448"
+         y="0"
+         x="0"
+         style="overflow:visible"
+         xlink:href="#SVGID_23_"
+         overflow="visible"
+         id="use471" />
+    </clipPath>
+    <clipPath
+       id="SVGID_26_">
+      <use
+         height="1052.3622"
+         width="744.09448"
+         y="0"
+         x="0"
+         style="overflow:visible"
+         xlink:href="#SVGID_25_"
+         overflow="visible"
+         id="use481" />
+    </clipPath>
+    <clipPath
+       id="clipPath3602">
+      <use
+         height="1052.3622"
+         width="744.09448"
+         y="0"
+         x="0"
+         style="overflow:visible"
+         xlink:href="#SVGID_25_"
+         overflow="visible"
+         id="use3604" />
+    </clipPath>
+    <clipPath
+       id="clipPath3606">
+      <use
+         height="1052.3622"
+         width="744.09448"
+         y="0"
+         x="0"
+         style="overflow:visible"
+         xlink:href="#SVGID_25_"
+         overflow="visible"
+         id="use3608" />
+    </clipPath>
+    <clipPath
+       id="clipPath3610">
+      <use
+         height="1052.3622"
+         width="744.09448"
+         y="0"
+         x="0"
+         style="overflow:visible"
+         xlink:href="#SVGID_25_"
+         overflow="visible"
+         id="use3612" />
+    </clipPath>
+    <linearGradient
+       id="SVGID_29_"
+       gradientUnits="userSpaceOnUse"
+       x1="79.025101"
+       y1="23.4161"
+       x2="79.067398"
+       y2="6.9252">
+      <stop
+         offset="0"
+         style="stop-color:#FFFFFF;stop-opacity:0"
+         id="stop498" />
+      <stop
+         offset="1"
+         style="stop-color:#FFFFFF"
+         id="stop500" />
+    </linearGradient>
+    <clipPath
+       id="SVGID_31_">
+      <use
+         height="1052.3622"
+         width="744.09448"
+         y="0"
+         x="0"
+         style="overflow:visible"
+         xlink:href="#SVGID_30_"
+         overflow="visible"
+         id="use516" />
+    </clipPath>
+    <linearGradient
+       id="SVGID_32_"
+       gradientUnits="userSpaceOnUse"
+       x1="77.755798"
+       y1="25.268801"
+       x2="77.798103"
+       y2="8.7779999">
+      <stop
+         offset="0"
+         style="stop-color:#FFFFFF;stop-opacity:0"
+         id="stop531" />
+      <stop
+         offset="1"
+         style="stop-color:#FFFFFF"
+         id="stop533" />
+    </linearGradient>
+    <linearGradient
+       id="SVGID_33_"
+       gradientUnits="userSpaceOnUse"
+       x1="78.061897"
+       y1="16.733601"
+       x2="78.061897"
+       y2="37.035198">
+      <stop
+         offset="5.618000e-03"
+         style="stop-color:#DEE2E5"
+         id="stop538" />
+      <stop
+         offset="0.2528"
+         style="stop-color:#FFFCE4"
+         id="stop540" />
+      <stop
+         offset="0.3953"
+         style="stop-color:#F0EBD7"
+         id="stop542" />
+      <stop
+         offset="0.5955"
+         style="stop-color:#D5CCC0"
+         id="stop544" />
+      <stop
+         offset="0.7865"
+         style="stop-color:#EDEDEE"
+         id="stop546" />
+      <stop
+         offset="1"
+         style="stop-color:#D7D4BA"
+         id="stop548" />
+    </linearGradient>
+    <clipPath
+       id="SVGID_35_">
+      <use
+         height="1052.3622"
+         width="744.09448"
+         y="0"
+         x="0"
+         style="overflow:visible"
+         xlink:href="#SVGID_34_"
+         overflow="visible"
+         id="use562" />
+    </clipPath>
+    <clipPath
+       id="SVGID_37_">
+      <use
+         height="1052.3622"
+         width="744.09448"
+         y="0"
+         x="0"
+         style="overflow:visible"
+         xlink:href="#SVGID_36_"
+         overflow="visible"
+         id="use572" />
+    </clipPath>
+    <clipPath
+       id="clipPath3633">
+      <use
+         height="1052.3622"
+         width="744.09448"
+         y="0"
+         x="0"
+         style="overflow:visible"
+         xlink:href="#SVGID_36_"
+         overflow="visible"
+         id="use3635" />
+    </clipPath>
+    <clipPath
+       id="clipPath3637">
+      <use
+         height="1052.3622"
+         width="744.09448"
+         y="0"
+         x="0"
+         style="overflow:visible"
+         xlink:href="#SVGID_36_"
+         overflow="visible"
+         id="use3639" />
+    </clipPath>
+    <clipPath
+       id="clipPath3641">
+      <use
+         height="1052.3622"
+         width="744.09448"
+         y="0"
+         x="0"
+         style="overflow:visible"
+         xlink:href="#SVGID_36_"
+         overflow="visible"
+         id="use3643" />
+    </clipPath>
+    <linearGradient
+       id="SVGID_40_"
+       gradientUnits="userSpaceOnUse"
+       x1="78.467598"
+       y1="23.8479"
+       x2="78.509903"
+       y2="7.3569999">
+      <stop
+         offset="0"
+         style="stop-color:#FFFFFF;stop-opacity:0"
+         id="stop589" />
+      <stop
+         offset="1"
+         style="stop-color:#FFFFFF"
+         id="stop591" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="241.32222"
+     inkscape:cy="601.41301"
+     inkscape:document-units="px"
+     inkscape:current-layer="g508"
+     showgrid="false"
+     inkscape:window-width="843"
+     inkscape:window-height="659"
+     inkscape:window-x="749"
+     inkscape:window-y="127"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata3794">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       transform="matrix(0,-1,1,0,240.55714,510.71218)"
+       id="Germany">
+      <g
+         id="g413">
+        <g
+           id="g415">
+          <g
+             id="g417">
+            <g
+               id="g419">
+              <defs
+                 id="defs421">
+                <circle
+                   sodipodi:ry="19.700001"
+                   sodipodi:rx="19.700001"
+                   sodipodi:cy="21.700001"
+                   sodipodi:cx="78.300003"
+                   id="SVGID_19_"
+                   cx="78.300003"
+                   cy="21.700001"
+                   r="19.700001" />
+              </defs>
+              <clipPath
+                 id="clipPath3655">
+                <use
+                   height="1052.3622"
+                   width="744.09448"
+                   y="0"
+                   x="0"
+                   style="overflow:visible"
+                   xlink:href="#SVGID_19_"
+                   overflow="visible"
+                   id="use3657" />
+              </clipPath>
+              <g
+                 clip-path="url(#SVGID_20_)"
+                 id="g427">
+                <g
+                   id="g429">
+                  <polygon
+                     style="fill:#ffffff"
+                     points="84.9,41.9 71.8,41.9 71.8,28.7 38.8,28.3 38.8,15.2 71.8,15.6 71.8,2 84.9,2 84.9,15.6 117.9,15.2 117.9,28.3 84.9,28.7 "
+                     id="polygon431" />
+                  <polygon
+                     style="fill:#ffffff"
+                     points="38.8,2 47.7,2.4 117.9,37.5 117.9,41.5 109,41.9 38.8,6.4 "
+                     id="polygon433" />
+                  <g
+                     id="g435">
+                    <polygon
+                       style="fill:#ffffff"
+                       points="117.9,2 109,2.4 38.8,37.5 38.8,41.5 47.7,41.9 117.9,6.4 "
+                       id="polygon437" />
+                  </g>
+                </g>
+              </g>
+            </g>
+            <linearGradient
+               id="linearGradient3665"
+               gradientUnits="userSpaceOnUse"
+               x1="78.313301"
+               y1="24.8372"
+               x2="78.355598"
+               y2="8.3465004">
+              <stop
+                 offset="0"
+                 style="stop-color:#FFFFFF;stop-opacity:0"
+                 id="stop3667" />
+              <stop
+                 offset="1"
+                 style="stop-color:#FFFFFF"
+                 id="stop3669" />
+            </linearGradient>
+            <ellipse
+               d="m 93.700003,14.2 c 0,5.964675 -6.894815,10.8 -15.4,10.8 -8.505185,0 -15.4,-4.835325 -15.4,-10.8 0,-5.9646756 6.894815,-10.8000004 15.4,-10.8000004 8.505185,0 15.4,4.8353248 15.4,10.8000004 z"
+               style="opacity:0.5;fill:url(#SVGID_21_)"
+               sodipodi:ry="10.8"
+               sodipodi:rx="15.4"
+               sodipodi:cy="14.2"
+               sodipodi:cx="78.300003"
+               cx="78.300003"
+               cy="14.2"
+               rx="15.4"
+               ry="10.8"
+               id="ellipse444" />
+            <linearGradient
+               id="linearGradient3672"
+               gradientUnits="userSpaceOnUse"
+               x1="78.619499"
+               y1="16.301901"
+               x2="78.619499"
+               y2="36.6036">
+              <stop
+                 offset="5.618000e-03"
+                 style="stop-color:#DEE2E5"
+                 id="stop3674" />
+              <stop
+                 offset="0.2528"
+                 style="stop-color:#FFFCE4"
+                 id="stop3676" />
+              <stop
+                 offset="0.3953"
+                 style="stop-color:#F0EBD7"
+                 id="stop3678" />
+              <stop
+                 offset="0.5955"
+                 style="stop-color:#D5CCC0"
+                 id="stop3680" />
+              <stop
+                 offset="0.7865"
+                 style="stop-color:#EDEDEE"
+                 id="stop3682" />
+              <stop
+                 offset="1"
+                 style="stop-color:#D7D4BA"
+                 id="stop3684" />
+            </linearGradient>
+            <path
+               style="fill:url(#SVGID_22_)"
+               inkscape:connector-curvature="0"
+               d="m 56.9,21.6 c 0,6.8 3.1,12.9 8,16.8 C 61,34.2 58.6,28.2 58.6,21.6 58.6,15 61,9 64.9,4.8 c -4.8,3.9 -8,10 -8,16.8 z M 92.3,4.7 c 3.9,4.2 6.3,10.2 6.3,16.8 0,6.6 -2.4,12.6 -6.3,16.8 4.9,-4 8,-10 8,-16.8 0,-6.7 -3.1,-12.8 -8,-16.8 z"
+               id="path459" />
+            <path
+               style="fill:#ffffff"
+               inkscape:connector-curvature="0"
+               d="m 78.6,41.7 c -11.1,0 -20.1,-9 -20.4,-19.6 0,0.1 0,0.3 0,0.4 0,11.2 9.1,20.4 20.4,20.4 11.2,0 20.4,-9.1 20.4,-20.4 0,-0.1 0,-0.3 0,-0.4 -0.2,10.6 -9.3,19.6 -20.4,19.6 z"
+               id="path461" />
+            <g
+               id="g463" />
+            <g
+               id="g465">
+              <defs
+                 id="defs467">
+                <circle
+                   sodipodi:ry="20.4"
+                   sodipodi:rx="20.4"
+                   sodipodi:cy="21.700001"
+                   sodipodi:cx="78.900002"
+                   id="SVGID_23_"
+                   cx="78.900002"
+                   cy="21.700001"
+                   r="20.4" />
+              </defs>
+              <clipPath
+                 id="clipPath3692">
+                <use
+                   height="1052.3622"
+                   width="744.09448"
+                   y="0"
+                   x="0"
+                   style="overflow:visible"
+                   xlink:href="#SVGID_23_"
+                   overflow="visible"
+                   id="use3694" />
+              </clipPath>
+              <g
+                 clip-path="url(#SVGID_24_)"
+                 id="g473">
+                <g
+                   id="g475">
+                  <defs
+                     id="defs477">
+                    <rect
+                       id="SVGID_25_"
+                       x="43.200001"
+                       y="0"
+                       width="71.599998"
+                       height="41.799999" />
+                  </defs>
+                  <clipPath
+                     id="clipPath3700">
+                    <use
+                       height="1052.3622"
+                       width="744.09448"
+                       y="0"
+                       x="0"
+                       style="overflow:visible"
+                       xlink:href="#SVGID_25_"
+                       overflow="visible"
+                       id="use3702" />
+                  </clipPath>
+                  <rect
+                     x="43.200001"
+                     y="0"
+                     clip-path="url(#SVGID_26_)"
+                     width="71.599998"
+                     height="13.9"
+                     id="rect483" />
+                  <rect
+                     style="fill:#df1e26"
+                     x="43.200001"
+                     y="13.9"
+                     clip-path="url(#SVGID_26_)"
+                     width="71.599998"
+                     height="13.9"
+                     id="rect485" />
+                  <rect
+                     style="fill:#f6d927"
+                     x="43.200001"
+                     y="27.9"
+                     clip-path="url(#SVGID_26_)"
+                     width="71.599998"
+                     height="13.9"
+                     id="rect487" />
+                  <g
+                     clip-path="url(#SVGID_26_)"
+                     id="g489">
+                    <defs
+                       id="defs491">
+                      <rect
+                         id="SVGID_27_"
+                         x="43.200001"
+                         y="0"
+                         width="71.599998"
+                         height="41.799999" />
+                    </defs>
+                    <clipPath
+                       id="SVGID_28_">
+                      <use
+                         height="1052.3622"
+                         width="744.09448"
+                         y="0"
+                         x="0"
+                         style="overflow:visible"
+                         xlink:href="#SVGID_27_"
+                         overflow="visible"
+                         id="use495" />
+                    </clipPath>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <linearGradient
+               id="linearGradient3712"
+               gradientUnits="userSpaceOnUse"
+               x1="79.025101"
+               y1="23.4161"
+               x2="79.067398"
+               y2="6.9252">
+              <stop
+                 offset="0"
+                 style="stop-color:#FFFFFF;stop-opacity:0"
+                 id="stop3714" />
+              <stop
+                 offset="1"
+                 style="stop-color:#FFFFFF"
+                 id="stop3716" />
+            </linearGradient>
+            <ellipse
+               d="m 94.499998,12.8 c 0,5.964676 -6.894815,10.8 -15.4,10.8 -8.505184,0 -15.399999,-4.835324 -15.399999,-10.8 0,-5.9646752 6.894815,-10.8 15.399999,-10.8 8.505185,0 15.4,4.8353248 15.4,10.8 z"
+               style="opacity:0.5;fill:url(#SVGID_29_)"
+               sodipodi:ry="10.8"
+               sodipodi:rx="15.4"
+               sodipodi:cy="12.8"
+               sodipodi:cx="79.099998"
+               cx="79.099998"
+               cy="12.8"
+               rx="15.4"
+               ry="10.8"
+               id="ellipse502" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g504">
+        <g
+           id="g506">
+          <g
+             id="g508">
+            <g
+               id="g510">
+              <defs
+                 id="defs512">
+                <circle
+                   sodipodi:ry="19.700001"
+                   sodipodi:rx="19.700001"
+                   sodipodi:cy="22.200001"
+                   sodipodi:cx="77.800003"
+                   id="SVGID_30_"
+                   cx="77.800003"
+                   cy="22.200001"
+                   r="19.700001" />
+              </defs>
+              <clipPath
+                 id="clipPath3725">
+                <use
+                   height="1052.3622"
+                   width="744.09448"
+                   y="0"
+                   x="0"
+                   style="overflow:visible"
+                   xlink:href="#SVGID_30_"
+                   overflow="visible"
+                   id="use3727" />
+              </clipPath>
+              <g
+                 clip-path="url(#SVGID_31_)"
+                 id="g518">
+                <g
+                   id="g520">
+                  <polygon
+                     style="fill:#ffffff"
+                     points="84.4,42.3 71.2,42.3 71.2,29.2 38.3,28.8 38.3,15.6 71.2,16 71.2,2.4 84.4,2.4 84.4,16 117.3,15.6 117.3,28.8 84.4,29.2 "
+                     id="polygon522" />
+                  <polygon
+                     style="fill:#ffffff"
+                     points="38.3,2.4 47.1,2.8 117.3,37.9 117.3,41.9 108.5,42.3 38.3,6.8 "
+                     id="polygon524" />
+                  <g
+                     id="g526">
+                    <polygon
+                       style="fill:#ffffff"
+                       points="117.3,2.4 108.5,2.8 38.3,37.9 38.3,41.9 47.1,42.3 117.3,6.8 "
+                       id="polygon528" />
+                  </g>
+                </g>
+              </g>
+            </g>
+            <linearGradient
+               id="linearGradient3735"
+               gradientUnits="userSpaceOnUse"
+               x1="77.755798"
+               y1="25.268801"
+               x2="77.798103"
+               y2="8.7779999">
+              <stop
+                 offset="0"
+                 style="stop-color:#FFFFFF;stop-opacity:0"
+                 id="stop3737" />
+              <stop
+                 offset="1"
+                 style="stop-color:#FFFFFF"
+                 id="stop3739" />
+            </linearGradient>
+            <ellipse
+               d="m 93.200003,14.6 c 0,5.964676 -6.894815,10.800001 -15.4,10.800001 -8.505185,0 -15.4,-4.835325 -15.4,-10.800001 0,-5.964675 6.894815,-10.7999998 15.4,-10.7999998 8.505185,0 15.4,4.8353248 15.4,10.7999998 z"
+               style="opacity:0.5;fill:url(#SVGID_32_)"
+               sodipodi:ry="10.8"
+               sodipodi:rx="15.4"
+               sodipodi:cy="14.6"
+               sodipodi:cx="77.800003"
+               cx="77.800003"
+               cy="14.6"
+               rx="15.4"
+               ry="10.8"
+               id="ellipse535" />
+            <linearGradient
+               id="linearGradient3742"
+               gradientUnits="userSpaceOnUse"
+               x1="78.061897"
+               y1="16.733601"
+               x2="78.061897"
+               y2="37.035198">
+              <stop
+                 offset="5.618000e-03"
+                 style="stop-color:#DEE2E5"
+                 id="stop3744" />
+              <stop
+                 offset="0.2528"
+                 style="stop-color:#FFFCE4"
+                 id="stop3746" />
+              <stop
+                 offset="0.3953"
+                 style="stop-color:#F0EBD7"
+                 id="stop3748" />
+              <stop
+                 offset="0.5955"
+                 style="stop-color:#D5CCC0"
+                 id="stop3750" />
+              <stop
+                 offset="0.7865"
+                 style="stop-color:#EDEDEE"
+                 id="stop3752" />
+              <stop
+                 offset="1"
+                 style="stop-color:#D7D4BA"
+                 id="stop3754" />
+            </linearGradient>
+            <path
+               style="fill:url(#SVGID_33_)"
+               inkscape:connector-curvature="0"
+               d="m 56.4,22 c 0,6.8 3.1,12.9 8,16.8 -3.9,-4.2 -6.3,-10.2 -6.3,-16.8 0,-6.6 2.4,-12.6 6.3,-16.8 -4.9,3.9 -8,10 -8,16.8 z M 91.7,5.2 C 95.6,9.4 98,15.4 98,22 c 0,6.6 -2.4,12.6 -6.3,16.8 4.9,-4 8,-10 8,-16.8 0.1,-6.8 -3.1,-12.9 -8,-16.8 z"
+               id="path550" />
+            <path
+               style="fill:#ffffff"
+               inkscape:connector-curvature="0"
+               d="M 78.1,42.1 C 67,42.1 58,33.1 57.7,22.5 c 0,0.1 0,0.3 0,0.4 0,11.2 9.1,20.4 20.4,20.4 11.2,0 20.4,-9.1 20.4,-20.4 0,-0.1 0,-0.3 0,-0.4 -0.3,10.7 -9.3,19.6 -20.4,19.6 z"
+               id="path552" />
+            <g
+               id="g554" />
+            <g
+               id="g556">
+              <defs
+                 id="defs558">
+                <circle
+                   sodipodi:ry="20.4"
+                   sodipodi:rx="20.4"
+                   sodipodi:cy="22.200001"
+                   sodipodi:cx="78.300003"
+                   id="SVGID_34_"
+                   cx="78.300003"
+                   cy="22.200001"
+                   r="20.4" />
+              </defs>
+              <clipPath
+                 id="clipPath3762">
+                <use
+                   height="1052.3622"
+                   width="744.09448"
+                   y="0"
+                   x="0"
+                   style="overflow:visible"
+                   xlink:href="#SVGID_34_"
+                   overflow="visible"
+                   id="use3764" />
+              </clipPath>
+              <g
+                 clip-path="url(#SVGID_35_)"
+                 id="g564">
+                <g
+                   id="g566">
+                  <defs
+                     id="defs568">
+                    <rect
+                       id="SVGID_36_"
+                       x="42.700001"
+                       y="0.40000001"
+                       width="71.599998"
+                       height="41.799999" />
+                  </defs>
+                  <clipPath
+                     id="clipPath3770">
+                    <use
+                       height="1052.3622"
+                       width="744.09448"
+                       y="0"
+                       x="0"
+                       style="overflow:visible"
+                       xlink:href="#SVGID_36_"
+                       overflow="visible"
+                       id="use3772" />
+                  </clipPath>
+                  <rect
+                     x="42.700001"
+                     y="0.40000001"
+                     clip-path="url(#SVGID_37_)"
+                     width="71.599998"
+                     height="13.9"
+                     id="rect574"
+                     style="fill:#0055a4;fill-opacity:0.94117647" />
+                  <rect
+                     style="fill:#ffffff;fill-opacity:1"
+                     x="42.700001"
+                     y="14.4"
+                     clip-path="url(#SVGID_37_)"
+                     width="71.599998"
+                     height="13.9"
+                     id="rect576" />
+                  <rect
+                     style="fill:#ef4135;fill-opacity:1"
+                     x="42.700001"
+                     y="28.299999"
+                     clip-path="url(#SVGID_37_)"
+                     width="71.599998"
+                     height="13.9"
+                     id="rect578" />
+                  <g
+                     clip-path="url(#SVGID_37_)"
+                     id="g580">
+                    <defs
+                       id="defs582">
+                      <rect
+                         id="SVGID_38_"
+                         x="42.700001"
+                         y="0.40000001"
+                         width="71.599998"
+                         height="41.799999" />
+                    </defs>
+                    <clipPath
+                       id="SVGID_39_">
+                      <use
+                         height="1052.3622"
+                         width="744.09448"
+                         y="0"
+                         x="0"
+                         style="overflow:visible"
+                         xlink:href="#SVGID_38_"
+                         overflow="visible"
+                         id="use586" />
+                    </clipPath>
+                  </g>
+                </g>
+              </g>
+            </g>
+            <linearGradient
+               id="linearGradient3782"
+               gradientUnits="userSpaceOnUse"
+               x1="78.467598"
+               y1="23.8479"
+               x2="78.509903"
+               y2="7.3569999">
+              <stop
+                 offset="0"
+                 style="stop-color:#FFFFFF;stop-opacity:0"
+                 id="stop3784" />
+              <stop
+                 offset="1"
+                 style="stop-color:#FFFFFF"
+                 id="stop3786" />
+            </linearGradient>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
